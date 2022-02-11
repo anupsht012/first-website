@@ -1,0 +1,167 @@
+@media (max-width:768px){
+    /*navbar*/
+     .navbar{
+         padding: 0;
+     }
+    .navbar .container{
+        width: 100%;
+    }
+   .main-header{
+       flex-direction: column;
+       background-color: wheat;
+   }
+    .hamberger-btn{
+    display: flex;
+    }
+    .logo.full-width{
+        display: flex;
+        width: 100%;
+        justify-content: space-between;
+        padding: 5px 10px;
+    }
+    .fa-times{
+        display: none;
+    }
+    .nav-items{
+        display: none;
+        width: 100%;
+        flex-direction: column;
+        align-items: center;
+    }
+    .nav-item{
+        padding: 10px 5px;
+        transition: .3s all ease-in-out;
+        
+    }
+    .search{
+        display: none;
+        padding: 10px 0;
+    }
+
+.owl-carousel img{
+    height: 100vh;
+}
+
+
+    .heading {
+        font-size: 12px;
+        margin-top: 60px;
+    }
+
+    .title {
+        padding-top: 3px;
+        font-weight: bolder;
+        font-size: 45px;
+    }
+
+    .button1 {
+        font-size: 15px;
+    }
+
+    .contact-section{
+        padding: 33px 0;
+    }
+
+    .contact-contents h2 {
+        font-size: 35px;
+    }
+    .contact-btn .button2 {
+        font-size: 17px;
+        padding: 10px;
+    }
+
+    .product-section .row h2 {
+        font-size: 15px;
+    }
+
+.product-section .row p {
+    font-size: 12px;
+}
+
+.text-content .design-content p {
+    font-size: 10px;
+}
+
+
+.text-content .product-title h2 {
+    font-size: 22px;
+    }
+
+
+
+    .media-layout .product-title {
+
+        margin-bottom: 12px;
+    }
+
+    .text-content .design-content1 h2 {
+        font-size: 18px;
+        padding-top: 19px;
+    }
+    .text-content .design-content1 p {
+        font-size: 11px;
+        padding-top: 6px;
+    }
+    .product-section .row h2 {
+        font-size: 16px;
+        padding: 2rem 0;
+    }
+
+    .picture-area {
+        height: 100vh;
+    }
+    .image-box {
+        width: 50%;
+    }
+    .image-box {
+        width: 50%;
+    }
+    .rowfirst {
+        display: flex;
+        padding: 14px 0 20px 0px;
+    }
+
+    .imgonly {
+        height: 75px;
+        width: 75px;
+    }
+
+    .rowImagecontainer {
+    
+        height: 300px;
+    }
+
+    .rowImagecontainer .rowtext {
+    padding: 13px 33px;
+    font-size: small;
+    }
+    
+    .great-text {
+    width: 80%;
+}
+
+.something .rowImagecontainer {
+    height: 260px;
+}
+
+
+.rowtexts {
+    font-size: 14px;
+}
+
+.rowImagecontainer h2 {
+    padding: 8px 0;
+    font-size: 16px;
+}
+.button4 {
+    font-size: 14px;
+}
+
+
+
+
+
+
+
+
+}
